@@ -7,3 +7,7 @@ cp -r ~/.config/alacritty .
 cp -r ~/.config/xfce4 .
 cp -r ~/.config/rofi .
 cp -r ~/.config/picom .
+cp -r ~/.config/neofetch .
+cp -r ~/scripts .
+
+cp ~/.bashrc .
