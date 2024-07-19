@@ -42,6 +42,7 @@
       <property name="plugin-ids" type="array">
         <value type="int" value="10"/>
         <value type="int" value="21"/>
+        <value type="int" value="24"/>
         <value type="int" value="19"/>
         <value type="int" value="22"/>
         <value type="int" value="23"/>
@@ -151,6 +152,11 @@
     <property name="plugin-23" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17201256695.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-24" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17214327661.desktop"/>
       </property>
     </property>
   </property>
