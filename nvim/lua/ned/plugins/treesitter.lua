@@ -1,8 +1,7 @@
 return {
     "nvim-treesitter/nvim-treesitter",
+    version = false,
     build = ":TSUpdate",
-
-    otps_extend = { "ensure_installed" },
 
     opts = {
         highlight = { enable = true },
@@ -16,6 +15,14 @@ return {
             "lua",
             "luadoc",
             "luap",
+            "luau",
+            "go",
+            "python",
         },
+        auto_install = true,
+        sync_install = true
     },
+    config = function(_, opts)
+        require("nvim-treesitter.configs").setup(opts)
+    end,
 }
