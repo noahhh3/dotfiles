@@ -17,7 +17,7 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="3840"/>
-        <property name="Y" type="int" value="404"/>
+        <property name="Y" type="int" value="438"/>
       </property>
     </property>
     <property name="DP-2" type="string" value="AOC International 32&quot;">
@@ -53,7 +53,7 @@
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="3840"/>
-        <property name="Y" type="int" value="404"/>
+        <property name="Y" type="int" value="438"/>
       </property>
     </property>
     <property name="DP-2" type="string" value="AOC International 32&quot;">

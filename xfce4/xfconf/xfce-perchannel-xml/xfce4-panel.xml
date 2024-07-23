@@ -30,7 +30,7 @@
       </property>
     </property>
     <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=8;x=5560;y=1419"/>
+      <property name="position" type="string" value="p=8;x=5560;y=1857"/>
       <property name="size" type="uint" value="40"/>
       <property name="length" type="double" value="100"/>
       <property name="mode" type="uint" value="0"/>
@@ -86,6 +86,7 @@
       <property name="names-visible" type="empty"/>
       <property name="show-frame" type="empty"/>
       <property name="known-items" type="array">
+        <value type="string" value="com.dec05eba.gpu_screen_recorder"/>
         <value type="string" value="steam"/>
       </property>
       <property name="known-legacy-items" type="array">
@@ -103,7 +104,7 @@
       <property name="enable-mpris" type="empty"/>
       <property name="mixer-command" type="empty"/>
       <property name="show-notifications" type="empty"/>
-      <property name="mpris-players" type="string" value="chromium.instance11061;chromium.instance12343;chromium.instance140830;chromium.instance16203;chromium.instance2428;chromium.instance2446;chromium.instance2460;chromium.instance2501;chromium.instance2564;chromium.instance2630;chromium.instance2634;chromium.instance3194;chromium.instance4073;chromium.instance4869;chromium.instance5190;chromium.instance7635;io.github.celluloid_player.Celluloid.instance-1;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance11061;chromium.instance12343;chromium.instance140830;chromium.instance16203;chromium.instance2236;chromium.instance2392;chromium.instance2428;chromium.instance2446;chromium.instance2450;chromium.instance2452;chromium.instance2460;chromium.instance2501;chromium.instance2564;chromium.instance2568;chromium.instance2617;chromium.instance2630;chromium.instance2634;chromium.instance2713;chromium.instance3194;chromium.instance4073;chromium.instance4869;chromium.instance5190;chromium.instance6585;chromium.instance7635;firefox.instance_1_435;io.github.celluloid_player.Celluloid.instance-1;vlc"/>
     </property>
     <property name="plugin-13" type="empty">
       <property name="digital-time-format" type="empty"/>
@@ -114,7 +115,7 @@
     <property name="plugin-14" type="empty"/>
     <property name="plugin-15" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance12343;chromium.instance140830;chromium.instance16203;chromium.instance2428;chromium.instance2460;chromium.instance2501;chromium.instance2564;chromium.instance2630;chromium.instance2634;chromium.instance3194;chromium.instance4073;chromium.instance4869;chromium.instance7635;io.github.celluloid_player.Celluloid.instance-1;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance12343;chromium.instance140830;chromium.instance16203;chromium.instance2236;chromium.instance2392;chromium.instance2428;chromium.instance2450;chromium.instance2452;chromium.instance2460;chromium.instance2501;chromium.instance2564;chromium.instance2568;chromium.instance2617;chromium.instance2630;chromium.instance2634;chromium.instance2713;chromium.instance3194;chromium.instance4073;chromium.instance4869;chromium.instance6585;chromium.instance7635;firefox.instance_1_435;io.github.celluloid_player.Celluloid.instance-1;vlc"/>
     </property>
     <property name="plugin-16" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>

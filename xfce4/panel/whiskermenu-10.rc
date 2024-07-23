@@ -1,5 +1,5 @@
 favorites=
-recent=org.kde.spectacle.desktop,xfce4-screensaver-preferences.desktop,light-locker-settings.desktop,com.alacritty.Alacritty.desktop,mullvad-vpn.desktop,nitrogen.desktop,xfce4-power-manager-settings.desktop,xfce4-settings-editor.desktop,nemo.desktop,thunar.desktop
+recent=com.dec05eba.gpu_screen_recorder.desktop,mintinstall.desktop,org.gnome.Software.desktop,org.gnome.Screenshot.desktop,update-manager.desktop,xfce4-settings-editor.desktop,xfce-display-settings.desktop,mullvad-vpn.desktop,org.kde.spectacle.desktop,xfce4-screensaver-preferences.desktop
 button-icon=linuxmint-logo
 button-single-row=false
 show-button-title=false

@@ -12,6 +12,7 @@ vim.opt.nu = true
 
 vim.opt.swapfile = false
 
+vim.opt.wrap = false
 
 vim.opt.swapfile = false
 vim.opt.backup = false
